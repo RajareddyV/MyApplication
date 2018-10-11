@@ -23,6 +23,8 @@ public static final String TAG=MainActivity.class.getSimpleName();
 ////finish();
                 //////////////
                 //
+
+                //  Android system
             }
         });
 
