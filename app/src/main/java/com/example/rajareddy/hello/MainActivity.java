@@ -21,7 +21,7 @@ public static final String TAG=MainActivity.class.getSimpleName();
             public void onClick(View view) {
                 startActivity(new Intent(getApplicationContext(),Second.class));
 //finish();
-                ////////
+                //////// hhhfhfhhdf ghdfghdfghdf
             }
         });
 
