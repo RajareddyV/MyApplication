@@ -22,6 +22,7 @@ public static final String TAG=MainActivity.class.getSimpleName();
                 startActivity(new Intent(getApplicationContext(),Second.class));
 //finish();
                 //////// hhhfhfhhdf ghdfghdfghdf hjjhdfhjhg
+                //// hhhdjhjhfjh hhjfjh jhjhhj jhjhf
             }
         });
 
